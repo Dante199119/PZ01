@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 10px;
+
+}
+.header {
+    width: 100ev;
+    height: 700px;
+    background-color: rgb(0,16,40);
+    color: antiquewhite;
+}
